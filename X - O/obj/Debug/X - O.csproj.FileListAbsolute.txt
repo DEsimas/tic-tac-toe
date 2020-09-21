@@ -1,0 +1,40 @@
+C:\MyPrograms\X - O\X - O\obj\Debug\X - O.csprojAssemblyReference.cache
+C:\MyPrograms\X - O\X - O\obj\Debug\X___O.Form1.resources
+C:\MyPrograms\X - O\X - O\obj\Debug\X___O.Properties.Resources.resources
+C:\MyPrograms\X - O\X - O\obj\Debug\X - O.csproj.GenerateResource.cache
+C:\MyPrograms\X - O\X - O\obj\Debug\X - O.csproj.CoreCompileInputs.cache
+C:\MyPrograms\X - O\X - O\bin\Debug\X - O.exe.config
+C:\MyPrograms\X - O\X - O\bin\Debug\X - O.exe
+C:\MyPrograms\X - O\X - O\bin\Debug\X - O.pdb
+C:\MyPrograms\X - O\X - O\obj\Debug\X - O.exe
+C:\MyPrograms\X - O\X - O\obj\Debug\X - O.pdb
+C:\Users\Серфим\Desktop\X - O\X - O\bin\Debug\X - O.exe.config
+C:\Users\Серфим\Desktop\X - O\X - O\bin\Debug\X - O.exe
+C:\Users\Серфим\Desktop\X - O\X - O\bin\Debug\X - O.pdb
+C:\Users\Серфим\Desktop\X - O\X - O\obj\Debug\X - O.csprojAssemblyReference.cache
+C:\Users\Серфим\Desktop\X - O\X - O\obj\Debug\X___O.Form1.resources
+C:\Users\Серфим\Desktop\X - O\X - O\obj\Debug\X___O.Properties.Resources.resources
+C:\Users\Серфим\Desktop\X - O\X - O\obj\Debug\X - O.csproj.GenerateResource.cache
+C:\Users\Серфим\Desktop\X - O\X - O\obj\Debug\X - O.csproj.CoreCompileInputs.cache
+C:\Users\Серфим\Desktop\X - O\X - O\obj\Debug\X - O.exe
+C:\Users\Серфим\Desktop\X - O\X - O\obj\Debug\X - O.pdb
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\bin\Debug\X - O.exe.config
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\bin\Debug\X - O.exe
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\bin\Debug\X - O.pdb
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\obj\Debug\X - O.csprojAssemblyReference.cache
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\obj\Debug\X___O.Form1.resources
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\obj\Debug\X___O.Properties.Resources.resources
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\obj\Debug\X - O.csproj.GenerateResource.cache
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\obj\Debug\X - O.csproj.CoreCompileInputs.cache
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\obj\Debug\X - O.exe
+E:\Programs\My programs\Windows forms C#\Done\X - O\X - O\X - O\obj\Debug\X - O.pdb
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X - O.csprojAssemblyReference.cache
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X___O.Form1.resources
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X___O.Properties.Resources.resources
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X - O.csproj.GenerateResource.cache
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X - O.csproj.CoreCompileInputs.cache
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X - O.exe
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X - O.pdb
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\bin\Debug\X - O.exe.config
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\bin\Debug\X - O.exe
+E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\bin\Debug\X - O.pdb
