@@ -38,3 +38,13 @@ E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\obj\Debug\X - O.pdb
 E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\bin\Debug\X - O.exe.config
 E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\bin\Debug\X - O.exe
 E:\Programs\My programs\Windows forms C#\X - O\X - O\X - O\bin\Debug\X - O.pdb
+C:\Programs\tic-tac-toe\X - O\bin\Debug\X - O.exe.config
+C:\Programs\tic-tac-toe\X - O\bin\Debug\X - O.exe
+C:\Programs\tic-tac-toe\X - O\bin\Debug\X - O.pdb
+C:\Programs\tic-tac-toe\X - O\obj\Debug\X - O.csprojAssemblyReference.cache
+C:\Programs\tic-tac-toe\X - O\obj\Debug\X___O.Form1.resources
+C:\Programs\tic-tac-toe\X - O\obj\Debug\X___O.Properties.Resources.resources
+C:\Programs\tic-tac-toe\X - O\obj\Debug\X - O.csproj.GenerateResource.cache
+C:\Programs\tic-tac-toe\X - O\obj\Debug\X - O.csproj.CoreCompileInputs.cache
+C:\Programs\tic-tac-toe\X - O\obj\Debug\X - O.exe
+C:\Programs\tic-tac-toe\X - O\obj\Debug\X - O.pdb
